@@ -1,6 +1,6 @@
 # The World in One Picture — 17 November 2026
 
-This image sums up Tuesday 17 November 2026's world news: the Kerch Bridge was struck; a Trump–Xi–Putin trilateral summit was announced for Shenzhen; tankers were burning near Hormuz as Iranian drones targeted a US base in Bahrain; and Nvidia reported $115.8bn in revenue in its first earnings without Jensen Huang. The ticker also covers Japan scrambling jets, the West urging Israel to open Gaza crossings, Depardieu admitting assault, and Mongolia's president resigning.
+This dense newspaper front page is dated “Tuesday 17 November 2026” and presents 21 verified stories from that day. Its top stories cover the Kerch Bridge strike, Iran's drones on a US radar in Bahrain as tankers burn near Hormuz, and the Trump–Xi–Putin summit set for Shenzhen. Other coverage includes Nvidia's 15.8bn earnings, Japan scrambling jets, the Houthi advance in Yemen, a Russian military plane crash, Mongolia's president resigning, Depardieu admitting a charge, the plea to open Gaza crossings, and the US losing measles-free status. The page also includes a world map and an “Also on Tuesday” list.
 
 The program copies `entry.png` to `/output/entry.png` (or to the directory set in `MAKEFUN_OUTPUT_DIR`).
 
