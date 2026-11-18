@@ -6,4 +6,4 @@ The program copies `entry.png` to `/output/entry.png` (or to the directory set i
 
 [![make.fun bounty](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
 [![make.fun rank](https://make.fun/badge/news-image-20261117/godanaaa/news-image-20261117-entry/rank.svg)](https://make.fun/bounty/news-image-20261117)
-[![make.fun reward](https://make.fun/badge/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117)
+[![make.fun reward](https://make.fun/badge/news-image-20261117/godanaaa/news-image-20261117-entry/reward.svg)](https://make.fun/bounty/news-image-20261117)
